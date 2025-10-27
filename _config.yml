@@ -1,10 +1,10 @@
-title: welcome! # name of the site
+title: Amogh Amblihalli # name of the site
 author: Amogh Amblihalli # name of site's author
 email: aamblihalli@gmail.com # email of site's author
 url: https://amoghamblihalli.github.io/ # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  my site, my space
+  my space, my hobbies, my site
 
 permalink: /:slug.html
 
@@ -31,7 +31,7 @@ plugins:
 jektex:
   cache_dir: ".jektex-cache"
   ignore: ["*.xml"]
-  silent: false
+  silent: true
   macros:
     - ["\\Q", "\\mathbb{Q}"]
     - ["\\C", "\\mathbb{C}"]
