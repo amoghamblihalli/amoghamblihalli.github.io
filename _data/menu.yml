@@ -11,9 +11,5 @@ entries:
       url: ../_pages/about
 
 - title: professional
-  post_list:
+  post_list: true
     category: professional
-
-- title: hobby
-  post_list:
-    category: hobby

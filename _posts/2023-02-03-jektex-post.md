@@ -1,5 +1,7 @@
 ---
 layout: post
+title: resume
+category: professional
 ---
 
 This post is here to test [$$\jektex$$](https://github.com/yagarea/jektex),
