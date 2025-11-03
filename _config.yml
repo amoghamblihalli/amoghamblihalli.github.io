@@ -21,12 +21,14 @@ theme_config:
   lowercase_titles: true # show titles in lowercase in lists
 
 sass:
-  style: compressed
+  style: :compressed
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jektex
+  - jekyll-compose
+  - jekyll-sitemap
+
+include:
+  - _pages
 
 jektex:
   cache_dir: ".jektex-cache"
