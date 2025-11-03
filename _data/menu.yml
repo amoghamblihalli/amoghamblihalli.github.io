@@ -6,10 +6,10 @@ entries:
 - title: me
   entries:
     - title: email
-      url: mailto: aamblihalli@gmail.com
+      url: mailto:aamblihalli@gmail.com
     - title: about
       url: ../_pages/about
 
 - title: professional
-  post_list: true
+  post_list: 
     category: professional
