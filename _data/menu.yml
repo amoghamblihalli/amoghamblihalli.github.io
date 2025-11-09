@@ -13,3 +13,15 @@ entries:
 - title: professional
   post_list: 
     category: professional
+
+- title: hobby
+  post_list:
+    category: hobby
+
+- title: thoughts & tales
+  post_list:
+    category: tt
+    limit: 5
+    show_more: true
+    show_more_text: See the rest...
+    show_more_url: archive.html
